@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://hitvpn.live/sitemap.xml
+
+# Allow access to assets and favicon
+Allow: /img/
+Allow: /style/
+Allow: /video/
+Allow: /favicon.ico
+
+# Common crawl delay
+Crawl-delay: 1
